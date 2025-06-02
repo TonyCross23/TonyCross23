@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aung Ko Oo</h1>
-<h3 align="center">Motivated and skilled Backend Web Developer with hands-on experience in Node.js, TypeScript, JavaScript, PHP, Laravel, and Express. I specialize in building robust APIs and backend services, with strong database design skills using MySQL, PostgreSQL, MongoDB, NoSql and SQL. I also have frontend experience with HTML, CSS, React, and UI/UX design principles, enabling me to contribute across the full stack when needed. Familiar with DevOps practices, including Docker and Kubernetes (K8s) for containerization and deployment. Currently expanding my skills by learning Python and Go programming languages to stay up-to-date with modern backend technologies. A fast learner and team player with a passion for clean code, system performance, and continuous improvement.I currently Linux Administration and Linux Server.</h3>
+<h1>Hi 👋, I'm Aung Ko Oo</h1>
+<h3>Motivated and skilled Backend Web Developer with hands-on experience in Node.js, TypeScript, JavaScript, PHP, Laravel, and Express. I specialize in building robust APIs and backend services, with strong database design skills using MySQL, PostgreSQL, MongoDB, NoSql and SQL. I also have frontend experience with HTML, CSS, React, and UI/UX design principles, enabling me to contribute across the full stack when needed. Familiar with DevOps practices, including Docker and Kubernetes (K8s) for containerization and deployment. Currently expanding my skills by learning Python and Go programming languages to stay up-to-date with modern backend technologies. A fast learner and team player with a passion for clean code, system performance, and continuous improvement.I currently Linux Administration and Linux Server.</h3>
 
 - 🌱 I’m currently learning **Go programming language**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
