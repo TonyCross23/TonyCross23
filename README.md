@@ -115,13 +115,98 @@ https://github.com/yourusername/docker-backend
 
 ---
 
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+<td width="50%">
+
+<h3>🌐 Portfolio Website</h3>
+
+<a href="http://tony-zeta.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
+
+</a>
+
+<p>
+
+Tech Stack:<br>
+
+React, Vite, Tailwind, Vercel
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>☕ Mini Coffee Shop</h3>
+
+<a href="https://mini-coffee-shop.vercel.app/auth/signin" target="_blank">
+
+<img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
+
+</a>
+
+<p>
+
+React, Node.js, Express, MongoDB
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>📊 Excel Analyst Dashboard</h3>
+
+<a href="https://excel-analyst-tool-react.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
+
+</a>
+
+<p>
+
+React, TypeScript, Chart.js
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🍲 Recipes App</h3>
+
+<a href="https://react-vite-infinity-scroll.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
+
+</a>
+
+<p>
+
+React, API, Infinite Scroll
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=TonyCross23&show_icons=true&theme=tokyonight" />
 
 </p>
 
