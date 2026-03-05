@@ -53,12 +53,22 @@ Passionate about clean code, performance, and modern backend technologies.
 <table>
   <tr>
     <td width="50%">
+      <h3>📦 Inventory Management System</h3>
+      <a href="https://inven-gdgj.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE-DEMO-orange?style=for-the-badge">
+      </a>
+      <p>Tech Stack: Laravel, Inertia, React, PostgreSQL (Neon)</p>
+    </td>
+    <td width="50%">
       <h3>🌐 Portfolio Website</h3>
       <a href="http://tony-zeta.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
       </a>
       <p>Tech Stack: React, Vite, Tailwind, Vercel</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>☕ Mini Coffee Shop</h3>
       <a href="https://mini-coffee-shop.vercel.app/auth/signin" target="_blank">
@@ -66,9 +76,6 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: React, Node.js, Express, MongoDB</p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
       <h3>📊 Excel Analyst Dashboard</h3>
       <a href="https://excel-analyst-tool-react.vercel.app/" target="_blank">
@@ -76,6 +83,9 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: React, TypeScript, Chart.js</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🍲 Recipes App</h3>
       <a href="https://react-vite-infinity-scroll.vercel.app/" target="_blank">
@@ -83,9 +93,6 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: React, API, Infinite Scroll</p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
       <h3>🛒 POS System (TS)</h3>
       <a href="https://pos-ts-whtc.vercel.app/" target="_blank">
@@ -93,6 +100,9 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: TypeScript, React, Modern UI</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3>🖼️ BG Remover Tool</h3>
       <a href="https://bg-remover-rho-orpin.vercel.app/" target="_blank">
@@ -100,9 +110,6 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: React, Image Processing API</p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%">
       <h3>📝 Modern Blog Platform</h3>
       <a href="https://blog-azure-nine-77.vercel.app/" target="_blank">
@@ -110,8 +117,6 @@ Passionate about clean code, performance, and modern backend technologies.
       </a>
       <p>Tech Stack: Next.js/React, Content Management</p>
     </td>
-    <td width="50%">
-      </td>
   </tr>
 </table>
 
